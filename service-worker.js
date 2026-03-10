@@ -4,7 +4,7 @@ const FILES_TO_CACHE = [
   "./",
   "./index.html",
   "./manifest.json",
-  "./193.png",
+  "./192.png",
   "./512.png"
 ];
 
